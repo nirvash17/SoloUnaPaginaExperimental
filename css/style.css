@@ -10,19 +10,35 @@ body{
 #cabecera{
 
     height: 100px;
-    width: max-content;
+    width: auto;
+    text-align: left;
     padding-left: 50px;
     font-family: cursive;
     font-size: 40px;
     font-weight: 900;
+    background-color: #0662C4;
+    color: white;
+    border-radius: 10px;
+    margin: 0 100px;
+    box-shadow: 39px 29px 64px 1px rgba(0,0,0,0.75);
+}
+
+#header_info{
+
+    margin-left: 1200px;
+    text-align: right;
+    width: fit-content;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 #container{
-    width: 700px;
+    width: auto;
     height: 200px;
     text-align: center;
     border: 1px solid black;
-    margin: 0 auto;
+    margin: 0 100px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
