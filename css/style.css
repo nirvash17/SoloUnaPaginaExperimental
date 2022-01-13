@@ -34,11 +34,11 @@ body{
 }
 
 #container{
-    width: 100%;
+    width: auto;
     height: 200px;
     text-align: center;
     border: 1px solid black;
-    margin: 0 auto;
+    margin: 0 100px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
