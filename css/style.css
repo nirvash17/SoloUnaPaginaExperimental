@@ -92,6 +92,9 @@ font-family: fantasy;
     text-align: center;
     background-color: #D8D08B;
     margin: 0 100px;
+    border-left: 30px solid;
+    border-radius: 2vh;
+    border-color: #F9D200;
 
 
 }
