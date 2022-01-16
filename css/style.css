@@ -1,45 +1,79 @@
 body{
 
     text-align: center;
-    font-size: 30px;
+    font-size: 4vh;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 500;
+    background-color: #DAB0F3;
 
 }
 
 #cabecera{
-
-    height: 100px;
+    padding-top: 5vh;
+    height: 10vh;
     width: auto;
     text-align: left;
-    padding-left: 50px;
+    padding-left: 6vh;
     font-family: cursive;
-    font-size: 40px;
+    font-size: 1em;
     font-weight: 900;
     background-color: #0662C4;
     color: white;
-    border-radius: 10px;
-    margin: 0 100px;
+    border-radius: 1.5vh;
+    margin: 0 12vh;
     box-shadow: 39px 29px 64px 1px rgba(0,0,0,0.75);
+    display: flex;
+    flex-direction: row;
 }
+
+#face{
+margin: 0%;
+
+}
+
+.tiledBackground {
+    background-image: url(../assets/dragon.png);
+    background-size: 10vh;
+    width: 10vh;
+    height: 10vh;
+    color: pink;
+    margin-right: 20px;
+    margin-bottom: 5vh;
+  }
 
 #header_info{
 
-    margin-left: 1200px;
+    margin-left: 70vh;
     text-align: right;
     width: fit-content;
-    font-size: 25px;
+    font-size: 17px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
 
 }
 
 #container{
     width: auto;
-    height: 200px;
+    height: 60vh;
     text-align: center;
     border: 1px solid black;
     margin: 0 100px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #62C5D1;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#body_2{
+
+flex-grow: 1;
+display: flex;
+justify-content: center;
+align-items: center;
+border-top: #52125A solid;
+box-shadow: 0px -11px 22px -2px rgba(0,0,0,0.75);
+font-family: fantasy;
 
 }
 
@@ -58,6 +92,9 @@ body{
     text-align: center;
     background-color: #D8D08B;
     margin: 0 100px;
+    border-left: 3px solid;
+    border-radius: 2vh;
+    border-color: #F9D200;
 
 
 }
