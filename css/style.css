@@ -54,7 +54,7 @@ margin: 0%;
 
 #container{
     width: auto;
-    height: 60vh;
+    height: 65vh;
     text-align: center;
     border: 1px solid black;
     margin: 0 100px;
@@ -69,6 +69,7 @@ margin: 0%;
 
 flex-grow: 1;
 display: flex;
+flex-direction: column;
 justify-content: center;
 align-items: center;
 border-top: #52125A solid;
