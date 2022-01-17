@@ -11,3 +11,4 @@ Kelsier
 
 * El primero de muchos
 * Creo que va bastantte bien la verdad
+* luv u Freddy
