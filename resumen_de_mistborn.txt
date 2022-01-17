@@ -2,5 +2,6 @@ vin, una ladrona callejera cuyo unico propositar al despertar cada mañana es so
 mantiene agazapada entre sombras y estantes, y cuida no hacer ningun ruido a su andaar, pues asi no el resto no sabe que ella se encuentra cerca y claro, si no saben que esta ahi
 no pueden golpearla.
 exp1
+exp2
 Un dia es llevada en una mision por Camon, el lider de su banda, la banda la suele llevar a sus misiones debido a que parece traer buena suerte,
 sin embargo lo cierto es que lo que posee Vin es mas que buena suerte, pues Vin es la contenedora de un inmensio e inusitado poder.
