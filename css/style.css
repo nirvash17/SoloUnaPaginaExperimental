@@ -15,7 +15,7 @@ body{
     text-align: left;
     padding-left: 6vh;
     font-family: cursive;
-    font-size: 1em;
+    font-size: 0.7em;
     font-weight: 900;
     background-color: #0662C4;
     color: white;
@@ -28,6 +28,7 @@ body{
 
 #face{
 margin: 0%;
+width: 80vh;
 
 }
 
@@ -43,7 +44,7 @@ margin: 0%;
 
 #header_info{
 
-    margin-left: 70vh;
+    margin-left: 20vh;
     text-align: right;
     width: fit-content;
     font-size: 17px;
@@ -95,7 +96,7 @@ font-family: fantasy;
     margin: 0 100px;
     border-left: 30px solid;
     border-radius: 2vh;
-    border-color: #F9D200;
+    border-color: #ff7b00;
 
 
 }
