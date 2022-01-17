@@ -10,3 +10,4 @@ Intentando que se vea bonito pal que lee
 Kelsier
 
 * El primero de muchos
+* Creo que va bastantte bien la verdad
