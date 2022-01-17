@@ -9,4 +9,10 @@ Intentando que se vea bonito pal que lee
 > Tu eres una skaa asi que no tienes que jugar bajo sus reglas y eso te hace mas poderosa
 Kelsier
 
+<<<<<<< HEAD
 * El primero de muchos
+=======
+* El primero de muchos
+* Creo que va bastantte bien la verdad
+* luv u Freddy
+>>>>>>> readme_mejorado
