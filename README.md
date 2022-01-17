@@ -8,3 +8,5 @@ Intentando que se vea bonito pal que lee
 
 > Tu eres una skaa asi que no tienes que jugar bajo sus reglas y eso te hace mas poderosa
 Kelsier
+
+* El primero de muchos
