@@ -9,7 +9,7 @@ body{
 }
 
 #cabecera{
-    padding-top: 5vh;
+    padding-top: 2vh;
     height: 10vh;
     width: auto;
     text-align: left;
@@ -29,14 +29,16 @@ body{
 #face{
 margin: 0%;
 width: 80vh;
+justify-content: center;
+padding-top: 2vh;
 
 }
 
 .tiledBackground {
-    background-image: url(../assets/dragon.png);
-    background-size: 10vh;
-    width: 10vh;
-    height: 10vh;
+    background-image: url(../assets/mistborn.png);
+    background-size: 8vh;
+    width: 8vh;
+    height: 8vh;
     color: pink;
     margin-right: 20px;
     margin-bottom: 5vh;
