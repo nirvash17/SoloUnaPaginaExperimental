@@ -59,7 +59,7 @@ width: 80vh;
     text-align: center;
     border: 1px solid black;
     margin: 0 100px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #62C5D1;
     display: flex;
     flex-direction: column;
